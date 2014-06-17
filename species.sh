@@ -1,3 +1,5 @@
+#TODO: provide links to more infor on animals
+
 for filename in $*
 do
 	echo $filename

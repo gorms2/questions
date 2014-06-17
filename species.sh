@@ -1,4 +1,5 @@
 #TODO: provide links to more infor on animals
+#also kingdom, phylum
 
 for filename in $*
 do
